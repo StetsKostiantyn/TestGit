@@ -2,6 +2,11 @@
 
 using namespace std;
 
+void foo()
+{
+	cout << "Foo" << endl;
+}
+
 int main()
 {
 	setlocale(0, "");
